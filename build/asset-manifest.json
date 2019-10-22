@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Spectra-spa/static/css/main.e7db3495.chunk.css",
+    "main.js": "/Spectra-spa/static/js/main.ddf4d85b.chunk.js",
+    "main.js.map": "/Spectra-spa/static/js/main.ddf4d85b.chunk.js.map",
+    "runtime~main.js": "/Spectra-spa/static/js/runtime~main.ce5957ce.js",
+    "runtime~main.js.map": "/Spectra-spa/static/js/runtime~main.ce5957ce.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/Spectra-spa/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.6eb7e2eb.chunk.js": "/Spectra-spa/static/js/2.6eb7e2eb.chunk.js",
+    "static/js/2.6eb7e2eb.chunk.js.map": "/Spectra-spa/static/js/2.6eb7e2eb.chunk.js.map",
+    "index.html": "/Spectra-spa/index.html",
+    "precache-manifest.2323a31f1952f79bcb7e0a8f23e3a2e1.js": "/Spectra-spa/precache-manifest.2323a31f1952f79bcb7e0a8f23e3a2e1.js",
+    "service-worker.js": "/Spectra-spa/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/Spectra-spa/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.e7db3495.chunk.css.map": "/Spectra-spa/static/css/main.e7db3495.chunk.css.map",
+    "static/media/avatar-z.png": "/Spectra-spa/static/media/avatar-z.9ee61ab9.png",
+    "static/media/uni.jpg": "/Spectra-spa/static/media/uni.f355c337.jpg"
+  }
+}
